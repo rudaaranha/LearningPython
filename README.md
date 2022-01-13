@@ -1,5 +1,5 @@
 # LearningPython
-Learning Python through the CourseemVideo course by professor Gustavo Guanabara.
+Learning Python through the CurseemVideo course by professor Gustavo Guanabara.
 
 In this course I learned about Python history, how to install software and basic Python fundamentals divided into three parts, plus 115 exercises that were solved.
 
